@@ -23,3 +23,5 @@ public class MethodReference2 {
 
     }
 }
+
+// Implementation of the comparator interface using java 8
